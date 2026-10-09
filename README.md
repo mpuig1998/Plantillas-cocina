@@ -1,4 +1,4 @@
 # Plantillas-cocina
-Creadas con libre office
+Plantillas creadas con libre office
 # Link de descarga ↓
 https://es.libreoffice.org/
